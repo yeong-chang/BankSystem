@@ -1,2 +1,2 @@
-# BABO
-1차 자바프로젝트
+# JavaMiniProject
+20241021
