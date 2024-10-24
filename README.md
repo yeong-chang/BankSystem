@@ -26,7 +26,7 @@
 
 ## 5. 프로그램 기본 흐름
 ### 유저
-<img src="img%2Fimage.png" width="700" height="450"/>                
+<img src="img%2Fuser.png" width="700" height="450"/>                
 
 ### 관리자
 <img src="img%2Fadmin.png" width="550" height="450"/>
