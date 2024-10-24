@@ -21,10 +21,8 @@
 | 팀원 | 홍영창 | 효율적인 커뮤니케이션과 협업을 통해 사용자 친화적인 시스템 개발|
 
 ## 4.사용 기술 
-<img src="img%2FGIT%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" width="150" height="70"/>           
-<img src= "img%2Fjavaimg.png" width="150" height="70"/></br>            
-<img src="img/이클립스%20이미지.jpg" width="150" height="70"/>         
-<img src="img%2F%ED%94%BC%EA%B7%B8%EB%A7%88.png" width="150" height="70"/>          
+<img src="img%2FGIT%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" width="150" height="70"/> <img src= "img%2Fjavaimg.png" width="150" height="70"/></br>            
+<img src="img/이클립스%20이미지.jpg" width="150" height="70"/> <img src="img%2F%ED%94%BC%EA%B7%B8%EB%A7%88.png" width="150" height="70"/>          
 
 ## 5. 프로그램 기본 흐름
 ### 유저
